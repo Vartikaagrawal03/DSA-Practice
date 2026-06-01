@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -26,5 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
