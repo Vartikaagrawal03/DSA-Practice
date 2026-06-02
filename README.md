@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
