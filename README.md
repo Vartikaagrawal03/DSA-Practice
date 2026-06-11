@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
