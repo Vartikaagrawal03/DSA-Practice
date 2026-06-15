@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
