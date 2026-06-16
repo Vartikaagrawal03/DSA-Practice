@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
 ## Counting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## String
@@ -187,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
