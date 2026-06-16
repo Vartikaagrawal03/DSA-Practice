@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0009-palindrome-number) |
+| [0089-gray-code](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0089-gray-code](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0113-path-sum-ii) |
 ## Iterator
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
