@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -222,10 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
+| [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
