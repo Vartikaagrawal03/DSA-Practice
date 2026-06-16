@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String
 |  |
 | ------- |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
