@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
+| [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
