@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
