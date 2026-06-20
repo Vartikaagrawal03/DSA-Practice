@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
 ## Binary Search
 |  |
 | ------- |
