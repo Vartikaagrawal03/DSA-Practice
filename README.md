@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0120-triangle) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
