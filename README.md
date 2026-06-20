@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
