@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
