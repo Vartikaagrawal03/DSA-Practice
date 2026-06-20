@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0089-gray-code) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
