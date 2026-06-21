@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
