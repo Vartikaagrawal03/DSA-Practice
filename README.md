@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
+| [0382-linked-list-random-node](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0382-linked-list-random-node) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -344,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
