@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1367-linked-list-in-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
