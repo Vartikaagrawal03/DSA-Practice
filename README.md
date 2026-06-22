@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
