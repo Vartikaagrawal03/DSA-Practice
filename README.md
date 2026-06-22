@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
+| [1669-merge-in-between-linked-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
