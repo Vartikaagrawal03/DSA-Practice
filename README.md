@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1669-merge-in-between-linked-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1669-merge-in-between-linked-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0394-decode-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0382-linked-list-random-node) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
