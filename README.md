@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1470-shuffle-the-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
