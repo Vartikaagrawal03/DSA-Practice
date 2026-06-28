@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
+| [0697-degree-of-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0912-sort-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
+| [0697-degree-of-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
