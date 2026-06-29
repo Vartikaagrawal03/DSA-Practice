@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0697-degree-of-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0697-degree-of-an-array) |
+| [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
 ## Math
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
+| [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -149,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0506-relative-ranks) |
+| [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
+| [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0481-magical-string) |
+| [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
 ## Binary Search
@@ -355,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
