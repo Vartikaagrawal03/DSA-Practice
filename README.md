@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0481-magical-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0481-magical-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
 ## Binary Search
