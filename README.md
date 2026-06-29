@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
 | [0697-degree-of-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0382-linked-list-random-node) |
 ## Two Pointers
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0126-word-ladder-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
