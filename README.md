@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0655-print-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
