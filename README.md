@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0223-rectangle-area) |
 | [0382-linked-list-random-node](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0382-linked-list-random-node) |
 ## Two Pointers
 |  |
@@ -457,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2360-longest-cycle-in-a-graph) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
