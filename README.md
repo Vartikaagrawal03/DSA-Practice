@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0115-distinct-subsequences) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0143-reorder-list) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bucket Sort
 |  |
