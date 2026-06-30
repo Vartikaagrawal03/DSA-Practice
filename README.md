@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
+| [3597-partition-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/3597-partition-string) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
+| [3597-partition-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/3597-partition-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [3597-partition-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/3597-partition-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [3597-partition-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/3597-partition-string) |
 ## Matrix
 |  |
 | ------- |
