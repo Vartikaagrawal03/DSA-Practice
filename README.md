@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0997-find-the-town-judge](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0997-find-the-town-judge) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Monotonic Queue
 |  |
 | ------- |
