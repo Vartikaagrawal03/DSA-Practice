@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
