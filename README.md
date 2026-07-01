@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/1528-shuffle-string) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0796-rotate-string) |
 ## Reservoir Sampling
 |  |
