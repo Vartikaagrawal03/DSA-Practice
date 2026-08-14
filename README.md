@@ -488,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0223-rectangle-area) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Vartikaagrawal03/DSA-Practice/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
